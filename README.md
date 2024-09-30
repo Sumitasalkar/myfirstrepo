@@ -1,2 +1,4 @@
 # snakeGame
-hfb chfv cnhfc ff 
+this is my first git repository
+<br>
+Authore - sumit Asalkar
